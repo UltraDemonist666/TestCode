@@ -1,0 +1,9 @@
+{
+    "Name": "name",
+    "Description": "description",
+    "StartClientVersion": 300,
+    "MapLists": [],
+    "Parameters": {
+      "Bool": []
+    }
+}
